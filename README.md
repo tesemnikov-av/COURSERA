@@ -11,4 +11,5 @@
 * Плотность распределения
 * Метод максимального правдоподобия
 * Функция распределения и плотность вероятности непрерывной случайной величины, их взаимосвязь и свойства
+https://studopedia.su/5_61389_funktsiya-raspredeleniya-i-plotnost-veroyatnosti-neprerivnoy-sluchaynoy-velichini-ih-vzaimosvyaz-i-svoystva.html
 * виды распределений (паусано биномиальное бернули и т д )
