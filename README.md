@@ -13,3 +13,4 @@
 * Функция распределения и плотность вероятности непрерывной случайной величины, их взаимосвязь и свойства
 https://studopedia.su/5_61389_funktsiya-raspredeleniya-i-plotnost-veroyatnosti-neprerivnoy-sluchaynoy-velichini-ih-vzaimosvyaz-i-svoystva.html
 * виды распределений (паусано биномиальное лапласса  бернули и т д )
+* np полная задача
