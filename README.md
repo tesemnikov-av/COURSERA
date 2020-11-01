@@ -22,3 +22,4 @@ https://studopedia.su/5_61389_funktsiya-raspredeleniya-i-plotnost-veroyatnosti-n
 * остовное дерево - графы
 
 теория информации курс 
+решающие деревья - энтропия и джини 
