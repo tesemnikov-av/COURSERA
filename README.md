@@ -20,3 +20,5 @@ https://studopedia.su/5_61389_funktsiya-raspredeleniya-i-plotnost-veroyatnosti-n
 * np полная задача
 * EM алгоритмы 
 * остовное дерево - графы
+
+теория информации курс 
