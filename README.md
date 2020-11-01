@@ -18,3 +18,5 @@ https://habr.com/ru/post/311092/
 https://studopedia.su/5_61389_funktsiya-raspredeleniya-i-plotnost-veroyatnosti-neprerivnoy-sluchaynoy-velichini-ih-vzaimosvyaz-i-svoystva.html
 * виды распределений (паусано биномиальное лапласса  бернули и т д )
 * np полная задача
+* EM алгоритмы 
+* остовное дерево - графы
