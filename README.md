@@ -31,5 +31,8 @@ https://blog.kinetica.su/osnovy_statistiki_dlya_veb-analitika_15_tipov_raspredel
 теория информации курс 
 решающие деревья - энтропия и джини (критерии информативности)
 
+EM на кирпичики
+https://m.habr.com/ru/post/501850/
+
 Метод максимального правдоподобия
 Баесовские методы 
