@@ -21,6 +21,9 @@ https://studopedia.su/5_61389_funktsiya-raspredeleniya-i-plotnost-veroyatnosti-n
 * EM алгоритмы 
 * остовное дерево - графы
 
+КАРТА РАСПРЕДЕЛЕНИЙ!!! 15 типов распределений
+https://blog.kinetica.su/osnovy_statistiki_dlya_veb-analitika_15_tipov_raspredeleniya_veroyatnostej/
+
 алгоритмы направленного поиска
 нахождение градинта функций x2 на листочке 
 производная по первой компаненте и по второй на листочке
