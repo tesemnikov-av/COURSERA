@@ -37,3 +37,5 @@ https://m.habr.com/ru/post/501850/
 
 Метод максимального правдоподобия
 Баесовские методы 
+
+learning_curve SKLEARN
