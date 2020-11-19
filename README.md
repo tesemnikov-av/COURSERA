@@ -39,3 +39,5 @@ https://m.habr.com/ru/post/501850/
 Баесовские методы 
 
 learning_curve SKLEARN
+
+Матрица ковариаций 
