@@ -30,6 +30,7 @@ https://blog.kinetica.su/osnovy_statistiki_dlya_veb-analitika_15_tipov_raspredel
 производная по первой компаненте и по второй на листочке
 
 EM algorithms 
+Meanshift alg
 
 теория информации курс 
 решающие деревья - энтропия и джини (критерии информативности)
