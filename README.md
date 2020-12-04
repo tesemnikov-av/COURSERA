@@ -31,6 +31,7 @@ https://blog.kinetica.su/osnovy_statistiki_dlya_veb-analitika_15_tipov_raspredel
 
 EM algorithms 
 Meanshift alg
+CatBoost
 
 теория информации курс 
 решающие деревья - энтропия и джини (критерии информативности)
