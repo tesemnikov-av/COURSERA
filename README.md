@@ -33,6 +33,10 @@ EM algorithms
 Meanshift alg
 CatBoost
 
+categorical cross entropy 
+cross entropy
+adam
+
 теория информации курс 
 решающие деревья - энтропия и джини (критерии информативности)
 
