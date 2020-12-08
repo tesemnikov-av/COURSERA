@@ -32,6 +32,7 @@ https://blog.kinetica.su/osnovy_statistiki_dlya_veb-analitika_15_tipov_raspredel
 EM algorithms 
 Meanshift alg
 CatBoost
+LightGBM
 
 categorical cross entropy 
 cross entropy
