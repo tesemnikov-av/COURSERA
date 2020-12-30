@@ -29,6 +29,7 @@ https://blog.kinetica.su/osnovy_statistiki_dlya_veb-analitika_15_tipov_raspredel
 нахождение градинта функций x2 на листочке 
 производная по первой компаненте и по второй на листочке
 
+z и t статистика
 
 Требования
 Знание алгоритмов Catboost, LightGBM, Xgboost
