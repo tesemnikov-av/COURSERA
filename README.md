@@ -33,6 +33,7 @@ z и t статистика
 кореляция и ковариация 
 
 logloss Логистичсекая функция потерь
+https://ai-news.ru/2019/04/logisticheskaya_funkciya_oshibki.html
 
 
 Требования
