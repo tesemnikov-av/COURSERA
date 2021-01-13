@@ -32,6 +32,7 @@ https://blog.kinetica.su/osnovy_statistiki_dlya_veb-analitika_15_tipov_raspredel
 z и t статистика
 кореляция и ковариация 
 
+logloss Логистичсекая функция потерь
 
 
 Требования
