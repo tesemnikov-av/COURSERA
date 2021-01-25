@@ -59,6 +59,10 @@ https://m.habr.com/ru/post/501850/
 Метод максимального правдоподобия
 Классические (частотные) и Баесовские подходы в теории вероятности - чем похожи и чем различаются?
 
+# Алгоритмы на Pyth
+https://www.youtube.com/watch?v=rLOyrWV8gmA&ab_channel=PythonEngineer
+
+
 Почему L1 метрика это куб, а L2 круг?
 
 learning_curve SKLEARN
