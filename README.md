@@ -83,3 +83,5 @@ learning_curve SKLEARN
 * тригонометрия
 * алгоритмы и структуры данных
 * Выборочная дисперсия является смещённой оценкой теоретической дисперсии, а исправленная выборочная дисперсия — несмещённой:
+https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html
+https://ml-cheatsheet.readthedocs.io/en/latest/linear_regression.html
