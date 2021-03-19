@@ -13,3 +13,5 @@ https://github.com/Alloxxa/car_classification
 https://github.com/ila28/Image-Captioning-Telegram-Bot
 
 https://hh.ru/resume/5cc0e7910008bceebb0039ed1f353761777576?query=data+scientist&hhtmFrom=resumes_catalog&source=search
+
+https://github.com/ila28/Simple-Gan
