@@ -10,6 +10,8 @@
 
 # gridsearch vs hyperopt vs optuna ( графики с разными гиперпараметрами ) 
 
+# реализиция стекинга
+
 * StandartScaler перед PCA !!!!
 
 
