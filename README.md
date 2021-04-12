@@ -7,6 +7,9 @@
 * стекинг (https://dyakonov.org/2017/03/10/c%D1%82%D0%B5%D0%BA%D0%B8%D0%BD%D0%B3-stacking-%D0%B8-%D0%B1%D0%BB%D0%B5%D0%BD%D0%B4%D0%B8%D0%BD%D0%B3-blending/)
 * Подмена задачи https://dyakonov.org/2019/03/22/%d0%bf%d0%be%d0%b4%d0%bc%d0%b5%d0%bd%d0%b0-%d0%b7%d0%b0%d0%b4%d0%b0%d1%87%d0%b8-%d0%b2-ml/comment-page-1/#comment-6634
 
+
+# gridsearch vs hyperopt vs optuna ( графики с разными гиперпараметрами ) 
+
 * StandartScaler перед PCA !!!!
 
 
