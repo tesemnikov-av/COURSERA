@@ -9,6 +9,7 @@
 
 
 # gridsearch vs hyperopt vs optuna ( графики с разными гиперпараметрами ) 
+# shap values - важность признаков https://github.com/slundberg/shap
 
 # реализиция стекинга
 
