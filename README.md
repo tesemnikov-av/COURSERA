@@ -1,7 +1,8 @@
 # COURSERA
 
 * Джини ( проще считать!! ) и энтропия = результат одинаковый
-* seq2seq 
+* seq2seq transform 
+* tensorboard 
 
 # batch normalization
 * левосторонние и правосторонние гипотезы
