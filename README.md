@@ -13,7 +13,9 @@
 # batch normalization
 * левосторонние и правосторонние гипотезы
 *  и беггинг и бустинг какие модели и переобучение этих моделий в ансамбли
-
+* scikit-uplift https://www.uplift-modeling.com/en/latest/tutorials.html
+* shap 
+* optuna 
 
 * bias varians trade-off
 * три смеси распределений
