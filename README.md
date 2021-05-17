@@ -3,6 +3,11 @@
 * Джини ( проще считать!! ) и энтропия = результат одинаковый
 * seq2seq transform 
 * tensorboard 
+* * spark
+* a b test 
+* torch net cv nlp
+* *
+* * графовые модели
 
 # batch normalization
 * левосторонние и правосторонние гипотезы
