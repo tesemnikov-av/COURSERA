@@ -6,7 +6,7 @@
 * * spark
 * a b test 
 * torch net cv nlp
-* *
+* * обучение с подкреплением
 * * графовые модели
 
 # batch normalization
