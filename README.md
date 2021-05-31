@@ -1,5 +1,5 @@
 # COURSERA
-
+* LSI LDA WORD MOVER DISTANCE 
 * Джини ( проще считать!! ) и энтропия = результат одинаковый
 * seq2seq transform 
 * tensorboard 
