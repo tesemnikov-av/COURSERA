@@ -1,4 +1,5 @@
 # COURSERA
+* udpipe spacy 
 * Хэш функции 
 * Трансформеры 
 * LSI LDA WORD MOVER DISTANCE 
