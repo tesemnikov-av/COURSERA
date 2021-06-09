@@ -1,13 +1,13 @@
 # COURSERA
 * udpipe spacy 
-* natasha 
+* natasha mysterm 
 * Хэш функции 
 * Трансформеры 
 * LSI LDA WORD MOVER DISTANCE 
 * UMAP ументшение размерностей
 * Джини ( проще считать!! ) и энтропия = результат одинаковый
 * seq2seq transform 
-* tensorboard 
+* tensorboard re
 * * spark
 * a b test 
 * torch net cv nlp
