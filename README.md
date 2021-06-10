@@ -3,6 +3,7 @@
 * natasha mysterm 
 * Хэш функции 
 * Трансформеры 
+* 'ground truth' For example, a ground truth tensor for a fake image is all zeros.
 * LSI LDA WORD MOVER DISTANCE 
 * UMAP ументшение размерностей
 * Джини ( проще считать!! ) и энтропия = результат одинаковый
