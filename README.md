@@ -4,7 +4,8 @@
 * * https://zen.yandex.ru/media/id/5cb4103c68a9c800b43827e8/otvety-na-sobesedovanii-po-python-chto-takoe-heshfunkciia-i-dlia-chego-ona-nujna-5ccd3639c3a10000b59aca55
 * /10-графовых-алгоритмов-наглядное-объяснение
 * https://medium.com/nuances-of-programming/10-%D0%B3%D1%80%D0%B0%D1%84%D0%BE%D0%B2%D1%8B%D1%85-%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D0%BE%D0%B2-%D0%BD%D0%B0%D0%B3%D0%BB%D1%8F%D0%B4%D0%BD%D0%BE%D0%B5-%D0%BE%D0%B1%D1%8A%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-53226d8e6ba0
-
+* Обучение с подкреплением https://www.youtube.com/watch?v=lADAXEauERc
+* 
 * udpipe spacy 
 * natasha mysterm 
 * Хэш функции 
