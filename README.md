@@ -1,5 +1,6 @@
 # COURSERA
-
+* парсинг pdf
+* работа с картами
 * ХЭШ функции
 * * https://zen.yandex.ru/media/id/5cb4103c68a9c800b43827e8/otvety-na-sobesedovanii-po-python-chto-takoe-heshfunkciia-i-dlia-chego-ona-nujna-5ccd3639c3a10000b59aca55
 * /10-графовых-алгоритмов-наглядное-объяснение
